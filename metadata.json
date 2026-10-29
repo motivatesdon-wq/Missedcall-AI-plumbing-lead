@@ -1,0 +1,6 @@
+{
+  "name": "MissedCall AI - Plumbing Lead Recovery",
+  "description": "Mobile-friendly AI assistant helping independent plumbing companies recover potential customers from missed calls with personalized SMS follow-ups, lead tracking, and notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
